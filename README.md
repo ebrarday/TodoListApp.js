@@ -1,8 +1,11 @@
-To Do List App Project using React & Firebase
+## Project Description
 
-Live Demo <br>
+ToDo application created with React JS. Users have possibility to create, edit, delete,
+check and uncheck todos.
+
+## Live Demo
 https://react.ebrargun.com/todo-list-app/
 
-info@ebrargun.com <br>
+info@ebrargun.com
 test123
 
