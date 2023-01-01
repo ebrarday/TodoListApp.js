@@ -6,6 +6,6 @@ check and uncheck todos.
 ## Live Demo
 https://react.ebrargun.com/todo-list-app/
 
-info@ebrargun.com
+info@ebrargun.com <br>
 test123
 
