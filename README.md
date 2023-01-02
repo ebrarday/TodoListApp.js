@@ -1,11 +1,9 @@
-## Project Description
-
-ToDo application created with React JS. Users have possibility to create, edit, delete,
-check and uncheck todos.
+## To Do List Application with React JS
+To Do List application created with React JS. Users have possibility to create, edit, delete, check and uncheck todos.
 
 ## Live Demo
-https://react.ebrargun.com/todo-list-app/
+[ToDoList App Live Demo](https://react.ebrargun.com/todo-list-app/)
 
-info@ebrargun.com <br>
-test123
+*username:* info@ebrargun.com <br>
+*password:* test123
 
